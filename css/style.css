@@ -1,0 +1,9 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right, #00f490, #00BC90);
+    /* background-color: black; */
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
